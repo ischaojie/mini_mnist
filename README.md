@@ -1,7 +1,7 @@
 # mini-mnist
 >手写字体识别（CNN），使用flask+vue
 
-![sms_classify](sms_classify.png)
+![mini_mnist](mini_mnist.png)
 
 ## 卷积神经网络
 ## 如何运行
